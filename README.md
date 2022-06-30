@@ -43,3 +43,6 @@ Open Line Developers page and set Webhook to 'URL'/callback
 ```sh
 python3 app.py
 ```
+
+### 將url貼至line Developers的Webhook URL
+![](https://i.imgur.com/R9P0WrY.png)
